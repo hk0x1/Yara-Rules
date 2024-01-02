@@ -3,7 +3,7 @@
 rule _root_Documents_crack_Adwind {
    meta:
       description = "crack - file Adwind.exe"
-      author = "Harshit Kumar"
+      author = "hk0x1"
       date = "2024-01-02"
       hash1 = "bbc572cced7c94d63a7208f4aba4ed20d1350bef153b099035a86c95c8d96d4a"
    strings:
